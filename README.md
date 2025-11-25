@@ -1,6 +1,5 @@
 # DataCenterDashboard
 GCU ITT-640 USER DESIGN INTERFACE ASSIGNMENT
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
