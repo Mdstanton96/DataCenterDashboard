@@ -317,9 +317,6 @@ GCU ITT-640 USER DESIGN INTERFACE ASSIGNMENT
           <div class="card">
             <h2>Global Health Status</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a
-              lorem id libero semper tincidunt. Vestibulum ante ipsum primis in
-              faucibus orci luctus et ultrices posuere cubilia curae.
             </p>
             <div style="margin-top: 10px;">
               <span class="tag tag-ok">All Regions: Operational</span>
@@ -331,9 +328,6 @@ GCU ITT-640 USER DESIGN INTERFACE ASSIGNMENT
           <div class="card">
             <h2>Capacity Snapshot</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-              commodo, purus sed elementum cursus, sapien ipsum consequat est,
-              sed sagittis lacus nunc sit amet ipsum.
             </p>
             <table>
               <tr>
@@ -362,9 +356,6 @@ GCU ITT-640 USER DESIGN INTERFACE ASSIGNMENT
           <div class="card">
             <h2>Recent Activity</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              ultricies justo vel ex sollicitudin, at tempor sem commodo.
-              Curabitur molestie diam vel dignissim fermentum.
             </p>
             <ul style="margin-top: 8px; font-size: 0.8rem; padding-left: 18px;">
               <li>New maintenance window created for Region A.</li>
